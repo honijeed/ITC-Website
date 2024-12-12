@@ -1,0 +1,174 @@
+body{
+    background-image: url('photos/289e1b763314ce624793e0ed711933ff.jpg');
+    font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
+h1{
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 55px;
+    background-color: #ba7a7a;
+}
+
+#subtitle{
+    text-align: center;
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+}
+
+#arrow{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-52%, -50%);
+}
+
+.navbox{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.references{
+    text-align: center;
+    color:black;
+    width: 600px;
+    line-height: 1;
+    margin: 10px 0;
+    font-size: 18px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.slidehead{
+    position: absolute;
+    background-color: #ba7a7a;
+    text-align: center;
+    font-size: 30px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.para{
+    position: absolute;
+    text-align:justify;
+    line-height: 1.5;
+    margin: 10px 0;
+    font-size: 20px;
+    width: 600px;
+    left: 10%;
+}
+
+#slide1{
+    top: 110%;
+}
+
+#para1{
+    top: 120%;
+}
+
+#slide2{
+    top: 230%;
+}
+
+#para2{
+    top: 240%;
+}
+
+#slide3{
+    top: 290%;
+}
+
+#para3{
+    top: 295%;
+}
+
+#Refs{
+    top: 410%;
+}
+
+#r1{
+    top: 423%;
+}
+
+#r2{
+    top: 432%;
+}
+
+#r3{
+    top: 440%;
+}
+
+#r4{
+    top: 445%;
+}
+
+#r5{
+    top: 452%;
+}
+
+#r6{
+    top: 460%;
+}
+
+#r7{
+    top: 468%;
+}
+
+#r8{
+    top: 475%;
+}
+
+#r9{
+    top: 485%;
+}
+
+#r10{
+    top: 495%;
+}
+
+#r11{
+    top: 505%;
+}
+
+#r12{
+    top: 515%;
+}
+
+#r13{
+    top: 523%;
+}
+
+#r14{
+    top: 532%;
+}
+
+#r15{
+    top: 544%;
+}
+
+#pic1{
+    position: absolute;
+    right: 15%;
+    top: 240%;
+}
+
+#pic2{
+    position: absolute;
+    right: 8%;
+    top: 150%;
+}
+
+#pic3{
+    position: absolute;
+    right: 10%;
+    top: 325%;
+}

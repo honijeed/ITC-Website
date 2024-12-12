@@ -1,0 +1,204 @@
+body{
+    background-image: url('photos/289e1b763314ce624793e0ed711933ff.jpg');
+    font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
+h1{
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 55px;
+    background-color: #7a7eba;
+}
+
+#subtitle{
+    text-align: center;
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+}
+
+#arrow{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-52%, -50%);
+}
+
+.navbox{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.references{
+    text-align: center;
+    color:black;
+    width: 600px;
+    line-height: 1;
+    margin: 10px 0;
+    font-size: 18px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.slidehead{
+    position: absolute;
+    background-color: #7a7eba;
+    text-align: center;
+    font-size: 30px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.para{
+    position: absolute;
+    text-align:justify;
+    line-height: 1.5;
+    margin: 10px 0;
+    font-size: 20px;
+    width: 600px;
+    left: 10%;
+}
+
+#slide1{
+    top: 110%;
+}
+
+#para1{
+    top: 120%;
+}
+
+#slide2{
+    top: 208%;
+}
+
+#para2{
+    top: 219%;
+}
+#slide3{
+    top: 295%;
+}
+
+#para3{
+    top: 308%;
+}
+
+#slide4{
+    top: 380%;
+}
+
+#para4{
+    top: 392%;
+}
+
+#slide5{
+    top: 460%;
+}
+
+#para5{
+    top: 473%;
+}
+
+#slide6{
+    top: 545%;
+}
+
+#para6{
+    top: 560%;
+}
+
+#pic1{
+    position: absolute;
+    right: 15%;
+    top: 135%;
+}
+
+#pic2{
+    position: absolute;
+    right: 15%;
+    top: 230%;
+}
+
+#pic3{
+    position: absolute;
+    right: 15%;
+    top: 315%;
+}
+
+#pic4{
+    position: absolute;
+    right: 10%;
+    top: 400%;
+}
+
+#pic5{
+    position: absolute;
+    right: 5%;
+    top: 480%;
+}
+
+#pic6{
+    position: absolute;
+    right: 15%;
+    top:560%;
+}
+
+#pic7{
+    position: absolute;
+    right: 15%;
+    top:640%;
+}
+
+#references{
+    top: 708%;
+}
+
+#r1{
+    top: 720%;
+}
+
+#r2{
+    top: 730%;
+}
+
+#r3{
+    top: 740%;
+}
+
+#r4{
+    top: 750%;
+}
+
+#r5{
+    top: 760%;
+}
+
+#r6{
+    top: 770%;
+}
+
+#r7{
+    top: 780%;
+}
+
+#r8{
+    top: 790%;
+}
+
+#r9{
+    top: 800%;
+}
+
+#r10{
+    top: 810%;
+}
+
+
+
